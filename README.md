@@ -131,7 +131,7 @@
 ## 🔗 Connect With Me  
 <p>
   <a href="https://github.com/Tarunsoni-610"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" />https://github.com/Tarunsoni-610</a>
+  <a href="https://www.linkedin.com/in/tarun-soni-a58227345?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <!-- <a href="#"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
 </p>
 
