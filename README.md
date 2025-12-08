@@ -54,12 +54,6 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarunsoni-610&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## 🔗 Connect With Me  
 <p>
   <a href="https://github.com/Tarunsoni-610"><img src="https://skillicons.dev/icons?i=github" /></a>
