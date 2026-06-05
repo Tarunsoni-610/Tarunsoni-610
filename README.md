@@ -4,8 +4,8 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 I am a **2nd year B.Tech CSE student**  
-- 💻 Currently learning **DSA (C++), MERN Stack, Java & Python (AI/ML)**  
+- 🎓 I am a **3rd year B.Tech CSE student**  
+- 💻 Currently learning **DSA (C++), MERN Stack, Java & Python (AI)**  
 - 🎯 My goal is to become a **skilled software developer**  
 - 🌱 These days I'm improving my **Projects, Web Development & Problem Solving**  
 - 🤝 I love working on **team projects** and learning new technologies  
